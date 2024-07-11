@@ -1,0 +1,57 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.db {
+    background-color: #1F2937;
+    color: white;
+}
+
+
+.intro {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.gb {
+    width: 300px;
+    margin-left: 10px;
+}
+
+.para1 {
+    display: block;
+}
+
+
+
+.suButton {
+    background-color: #3882F6;
+    color: white;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.hlinks {
+    display: flex;
+    gap: 20px;
+}
